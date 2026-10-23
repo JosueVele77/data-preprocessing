@@ -1,21 +1,36 @@
 <div align="center">
 
 # 🐧 Data Preprocessing
-### De datos originales a características listas para Machine Learning
 
-**Inteligencia Artificial · Universidad Politécnica Salesiana**
+### 🌀 De los datos originales al aprendizaje automático con Python
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Cálculo_numérico-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Análisis_de_datos-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Preprocesamiento-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Colab](https://img.shields.io/badge/Google_Colab-Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+**Práctica académica · Inteligencia Artificial · Universidad Politécnica Salesiana**
 
-**Autor:** [Josue Vele](https://github.com/JosueVele77)
+<br>
+
+<a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="68" height="68"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://numpy.org/" title="NumPy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="68" height="68"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://pandas.pydata.org/" title="Pandas"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="68" height="68"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://matplotlib.org/" title="Matplotlib"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="68" height="68"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://scikit-learn.org/" title="Scikit-learn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="68" height="68"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://colab.research.google.com/" title="Google Colab"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" width="68" height="68"></a>
+
+<br><br>
+
+![Python](https://img.shields.io/badge/PYTHON-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-ARRAYS_%26_MATRICES-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-DATAFRAMES-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-GRAFICOS-11557C?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-ESCALADO-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Colab](https://img.shields.io/badge/GOOGLE_COLAB-NOTEBOOK-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+<br>
+
+**Desarrollado por [Josue Vele](https://github.com/JosueVele77)**
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JosueVele77/data-preprocessing/blob/main/Practica_2_Prepocesamiento_de_datos.ipynb)
 
-[📒 Explorar notebook](./Practica_2_Prepocesamiento_de_datos.ipynb) · [📚 Dataset Palmer Penguins](https://huggingface.co/datasets/SIH/palmer-penguins)
+[📒 Explorar notebook](./Practica_2_Prepocesamiento_de_datos.ipynb) · [🐧 Dataset Palmer Penguins](https://huggingface.co/datasets/SIH/palmer-penguins)
 
 </div>
 
